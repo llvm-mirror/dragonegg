@@ -2,11 +2,12 @@
 - BUILD INSTRUCTIONS -
 ----------------------
 
-Step 0: Build and install llvm
-------------------------------
+Step 0: Build and install llvm-2.7
+----------------------------------
 
 I'm assuming anyone reading this knows how to build and install llvm.
-You need the latest llvm from the subversion repository.
+You need to use the 2.7 release of LLVM, which you can find here:
+  http://llvm.org/releases/download.html#2.7
 
 Step 1: Build gcc
 -----------------
